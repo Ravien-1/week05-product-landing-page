@@ -236,69 +236,7 @@ Prices and stocks are subject to availability. Customers should contact Luzon Fu
 
 ## Screenshots
 
-### Desktop View
-
-![Desktop View](screenshots/01-desktop-view.png)
-
-### Tablet View
-
-![Tablet View](screenshots/02-tablet-view.png)
-
-### Mobile View
-
-![Mobile View](screenshots/03-mobile-view.png)
-
-### Navigation Bar
-
-![Navigation Bar](screenshots/04-navigation-bar.png)
-
-### Hero Section
-
-![Hero Section](screenshots/05-hero-section.png)
-
-### Features Section
-
-![Features Section](screenshots/06-features-section.png)
-
-### Pricing Section
-
-![Pricing Section](screenshots/07-pricing-section.png)
-
-### Testimonials
-
-![Testimonials](screenshots/08-testimonials.png)
-
-### Footer
-
-![Footer](screenshots/09-footer.png)
-
-### VS Code Project Structure
-
-![VS Code Project Structure](screenshots/10-vscode-project-structure.png)
-
-### Blade Components Folder
-
-![Blade Components Folder](screenshots/11-blade-components-folder.png)
-
-### GitHub Repository
-
-![GitHub Repository](screenshots/12-github-repository.png)
-
-## Before and After Comparison
-
-The before-and-after comparison documents how the interface improved during development. The initial design focused on arranging the required content, while the finished design improved hierarchy, typography, product imagery, spacing, responsiveness, and calls to action.
-
-### Before Design
-
-The early version used a basic layout with limited styling and temporary image placeholders.
-
-![Before Design](documentation/before-design.png)
-
-### After Design
-
-The final version uses the actual Luzon Furniture product images, consistent cards, bold typography, responsive layouts, and clearer navigation.
-
-![After Design](documentation/after-design.png)
+Can be found at the [text](screenshots)
 
 ## Problems and Solutions
 

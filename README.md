@@ -296,9 +296,8 @@ Dealer of modern imported and local furniture
 
 ## Repository
 
-[GitHub Repository](https://github.com/Ravien-1/week05-product-landing-page)
+https://github.com/Ravien-1/week05-product-landing-page
 
-## Author
+## LinkedIn Post
 
-Ravien C. Ongkiko
-
+https://www.linkedin.com/feed/update/urn:li:activity:7504049880823242752/
